@@ -1,0 +1,8 @@
+flask
+flask-cors
+scikit-learn
+numpy
+google-generativeai
+openai
+requests
+gunicorn
